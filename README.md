@@ -1,6 +1,6 @@
 As part of the VerbaAlpina version control concept all of its modules are archived in periodic intervals. To get an older executable version of the software please pull the commit marked with the respective version number.
 
-The current version is 20/2.
+The current version is 21/2.
 
 # Plugin for Polygon Simplification
 Simplifying individual polygons is a way to reduce polygon size and increase loading speeds. This is accomplished by polygons being represented by fewer coordinate points while still keeping the general form of the polygon. The main problem of polygon simplification algorithms is that they only consider single polygons. When applying a simplification polygon to multiple neighboring polygons gaps and overlaps become visible between the borders of the polygons. This is due to the reduced details of the polygons. 
